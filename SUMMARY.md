@@ -11,4 +11,5 @@
 * [Resources](resources/README.md)
 * [Stories](stories/README.md)
 * [Other](other/README.md)
+* [Contributors](contributors/README.md)
 
