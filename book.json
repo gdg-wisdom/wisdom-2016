@@ -2,5 +2,9 @@
     "plugins": [
         "edit-link"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/gdg-wisdom/wisdom-2015/edit/master"
+        }
+    }
 }
