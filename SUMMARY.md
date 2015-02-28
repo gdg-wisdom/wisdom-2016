@@ -8,11 +8,10 @@
    * [Organizing](what_is_a_gdg/organizing)
    * [Promoting](what_is_a_gdg/promoting)
    * [Analyzing](what_is_a_gdg/analyzing)
-* [Google IO extended](google_io_extended.md)
 * [Events](gdg_events/README.md)
+   * [Google IO extended](gdg_events/google_io_extended.md)  
 * [Activities](activities/README.md)
 * [Community](community/README.md)
-   * Google IO extended
 * [Partners](partners/README.md)
 * [Resources](resources/README.md)
 * [Stories](stories/README.md)
