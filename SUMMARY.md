@@ -11,6 +11,7 @@
 * [Events](gdg_events/README.md)
 * [Activities](activities/README.md)
 * [Community](community/README.md)
+   * Google IO extended
 * [Partners](partners/README.md)
 * [Resources](resources/README.md)
 * [Stories](stories/README.md)
