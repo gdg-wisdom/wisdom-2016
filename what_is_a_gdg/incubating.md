@@ -13,8 +13,6 @@ This section covers collective wisdom related to the topic of starting a new cha
 
 ### What are Organizers' Responsibilities?
 
-### How do I find Co-Organizers?
-
 ### What if I own a Company?
 
 

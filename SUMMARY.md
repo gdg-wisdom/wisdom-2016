@@ -5,7 +5,7 @@
    * [How can we contribute?](how_can_we_contribute.md)
 * [Chapters](what_is_a_gdg/README.md)
    * [Incubating](what_is_a_gdg/incubating.md)
-   * [Organizing](what_is_a_gdg/organizing)
+   * [Organizing](what_is_a_gdg/organizing.md)
    * [Promoting](what_is_a_gdg/promoting)
    * [Analyzing](what_is_a_gdg/analyzing)
    * [Mentoring](what_is_a_gdg/mentoring.md)
