@@ -12,7 +12,7 @@
 * [Events](gdg_events/README.md)
    * [Google IO extended](gdg_events/google_io_extended.md)
    * [Women TechMakers](women_techmakers.md)
-   * Android Study Jam
+   * [Android Study Jam](android_study_jam.md)
 * [Activities](activities/README.md)
 * [Community](community/README.md)
 * [Google Developer Experts](google_developer_experts/README.md)
