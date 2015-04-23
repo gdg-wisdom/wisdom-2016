@@ -1,7 +1,7 @@
 # Organizing
 
 ### How to engage members as co-organizers?
-Sharing work helps to keep organizing fun and the success rewards your co-organizers.
+Sharing work helps to keep organizing fun and the success of the combined effort rewards your co-organizers.
 
 Members that you like to work with can be potential co-organizers. Organize an informal meeting to explain the whole structure of GDGs! Explain who is the global contact at Google, who is the regional contact at Google.
 
