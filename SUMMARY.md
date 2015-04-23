@@ -7,7 +7,7 @@
    * [Incubating](what_is_a_gdg/incubating.md)
    * [Organizing](what_is_a_gdg/organizing.md)
    * [Promoting](what_is_a_gdg/promoting.md)
-   * [Analyzing](what_is_a_gdg/analyzing)
+   * [Analyzing](what_is_a_gdg/analyzing.md)
    * [Mentoring](what_is_a_gdg/mentoring.md)
 * [Events](gdg_events/README.md)
    * [Google IO extended](gdg_events/google_io_extended.md)
