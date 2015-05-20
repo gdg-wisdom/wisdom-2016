@@ -6,6 +6,8 @@ The goal is to collect and curate knowledge that can help GDG organizers run and
 
 It’s not intended as a repository of technical content or Google product information, with the exception of tips and ideas for technical areas to cover by our activities.
 
+_Note_: This is a public document. Please ensure that any content that you contribute to this book is in the public domain and that you have permission from any original authors or owners if content is being replicated from a different source.
+
 ![](https://lh6.googleusercontent.com/-Pg6bBxnmQn8/UaHx6YpL4eI/AAAAAAAAACc/7FwluuBgzMQ/s1350-fcrop64=1,01aa1a39ff94f102/wisdomall.jpg)
 
 
