@@ -2,7 +2,7 @@
 
 This is a Google Developer Groups (GDG) created *living document* that is community-owned, multi-lingual, and publicly accessible. The latest version of this book can be found [online at GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2015/).
 
-The goal is to *collect and curate knowledge that can help GDG organizers run and manage their community, events, activities and partnerships.*
+The goal is to **collect and curate knowledge that can help GDG organizers run and manage their community, events, activities and partnerships.**
 
 It’s not intended as a repository of technical content or Google product information, with the exception of tips and ideas for technical areas to cover by our activities.
 
