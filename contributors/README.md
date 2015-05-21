@@ -6,7 +6,7 @@ Ideally, we want contributors to be on GitHub, and provide their contributions v
 
 | Contributor | Contribution Details |
 | --- | --- |
-| Nitjy Narasimhan / nitjy | global maintainer |
+| Nitya Narasimhan / nitya | global maintainer |
 | Friedger Müffke / friedger | global maintainer |
 | Yannick Lemin / theyann | link to tools |
 
