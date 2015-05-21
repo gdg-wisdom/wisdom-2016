@@ -6,12 +6,11 @@ Ideally, we want contributors to be on GitHub, and provide their contributions v
 
 | Contributor | Contribution Details |
 | --- | --- |
-| *(name/github)* | *(issues, commits, pull requests)*  |
 | Nitjy Narasimhan / nitjy | global maintainer |
-| Friedger Müffke /friedger | global maintainer |
+| Friedger Müffke / friedger | global maintainer |
 | Yannick Lemin / theyann | link to tools |
 
-You can see them all including bots on [Github](https://github.com/gdg-wisdom/wisdom-2015/graphs/contributors)
+You can see them all - including bots - on [Github](https://github.com/gdg-wisdom/wisdom-2015/graphs/contributors)
 
 
 ## History
