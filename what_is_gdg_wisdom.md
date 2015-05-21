@@ -11,3 +11,7 @@ In 2015, we made the decision to move to GitHub and established a [GDG Wisdom Or
 GitBook allows authors to write their manuscripts in [Markdown](http://daringfireball.net/projects/markdown/syntax), and automatically generates both a responsive web page and multiple e-book formats (PDF, mobi, ePub) for convenient distribution and consumption of that content. GitBook content is backed by a GitHub repository, with webhooks that automatically trigger a rebuild of the book every time the associated GitHub repository is updated.
 
 GDG Wisdom is overseen by members of the [GDG Task Force](https://plus.google.com/communities/105665179823281944523) community who have direct commit rights to the GitHub project.
+
+
+
+[![Join the chat at https://gitter.im/gdg-wisdom/wisdom-2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-wisdom/wisdom-2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
