@@ -12,6 +12,12 @@ Ideally, we want contributors to be on GitHub, and provide their contributions v
 
 You can see them all - including bots - on [Github](https://github.com/gdg-wisdom/wisdom-2015/graphs/contributors)
 
+## Process
+
+We use gitbook as publishing and editorial tool, the content is hosted on github. 
+The process is visualized below
+![Gitbook process](https://www.lucidchart.com/publicSegments/view/555da882-30cc-45af-9dad-537c0a004a17/image.png)
+
 
 ## History
 The main contributors to the previous GDG Wisdom site were 
