@@ -12,5 +12,11 @@ Ideally, we want contributors to be on GitHub, and provide their contributions v
 | .. | .. |
 
 
-[**CONTENT STUB**](https://github.com/gdg-wisdom/wisdom-2015/issues/6) >> Revise and convert the [old list of contributors](https://sites.google.com/site/gdgwisdom/home/contributors) from the website and list them above.
+## History
+The main contributors to the previous GDG Wisdom site were Stefan Hoth,
+Akil Head,
+Bhupal Sapkota,
+Uttam Tripathi,
+Dan Franc and 
+Paulo Fernandes. For more contributors see the [full list of contributors](https://sites.google.com/site/gdgwisdom/home/contributors).
 
