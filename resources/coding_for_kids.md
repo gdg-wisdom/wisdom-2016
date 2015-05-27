@@ -39,6 +39,11 @@ Use this section to identify people who are currently exploring ideas in this sp
 
  * [Azzurra Ragone](https://plus.google.com/+AzzurraRagone) ([@azzurra](https://twitter.com/azzurraragone))
 
+## Presentations
+Links to speaker decks for technical talks on coding for kids. These are good resources for jumpstarting conversations in your GDG community, and can give you ideas for small/easy projects for hands-on exercises.
+* TBD
+
+
 ## Projects
 Use this section to reference any projects built by GDG community members, that is relevant to this topic. Open source projects (with links to a GitHub repo or Google Drive documentation) are *particularly* appreciated.
 * TBD
