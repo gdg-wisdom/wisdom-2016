@@ -23,6 +23,8 @@
    * [Activities](community/activities.md)
    * [Partners](community/partners.md)
    * [Resources](community/resources.md)
+* [Resources](resources/README.md)
+   * [Coding For Kids](resources/coding_for_kids.md)
 * [Projects](projects/README.md)
 * [Stories](stories/README.md)
 * [Other](other/README.md)
