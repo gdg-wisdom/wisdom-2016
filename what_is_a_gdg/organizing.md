@@ -63,3 +63,8 @@ Open Source tools at [Github by GDG[x]](http://github.com/gdg­-x)
 * GDG Android app at [Google Play](https://play.google.com/store/apps/details?id=org.gdg.frisbee.android) (Frisbee)
 * Chapter website based on G+ stream, GDG hub (Boomerang)
 * Event website for Devfest (Zeppelin)
+
+###Chapter as an Entity
+Some sponsors might ask for an entity to sponsor your work. Depending on your country there are different requirements and possibilities. Discuss with your chapters nearby or other user groups in your country.
+
+Usually the easiest way to get sponsors involved is by asking them for goods and services (instead of money) like food, t-shirts, room, wifi.
