@@ -23,9 +23,24 @@ A GDG can take many forms -- from just a few people getting together to watch ou
 
 ## Where can I learn more about GDG?
 
+Visit the [GDG page](https://developers.google.com/groups/) on Google Developers website. If you have any questions, visit the [support](https://support.google.com/developergroups) page. You can also follow our [Youtube channel](http://www.youtube.com/gdgs).
+
 ## How do I start or join a GDG?
+
+Visit the [directory](https://developers.google.com/groups/directory/) to see if there's a local meetup in your area. Feel free to contact the organizers to find out more. If there's no chapter near you, consider [starting one](https://developers.google.com/groups/start/)!
 
 ## What are the benefits of joining a GDG ?
 
+The GDG is an initiative formed out of passion and goodwill. There are no direct monetary or material benefits, except the occasional Google merchandise. However, the long-term benefits are many.
+
+* Learn about interesting technologies.
+* Connect with other developers in the region.
+* Offers a platform to discuss and share, through talks, seminars, etc.
+* Be recognised in the developer community.
+* Mentorship opportunities from senior developers in the community.
+* Network with Google’s speakers during events.
+* Does not consume much time.
+
 ## What are the benefits of organizing a GDG?
 
+If you love internet technologies and enjoy exploring them with others, you’ll love being involved in a chapter or even being its founder. You’ll be able to bring together great speakers and like-minded audience and do things together that YOU personally like to do, but on a larger scale and with your direct influence on what that will be. While you could of course do this yourself anytime, the association with GDG brings you personally closer to the Google world, helps you in promoting and running your events and will let you get inspiration from more than 500 other GDG organizers around the world. You will also learn a lot yourself - from organizing and leading people, through running events to growing your technical knowledge. The GDG leadership position isn’t paid, but it lets you get a lot of other benefits. And it looks darn good on résumés, too.
