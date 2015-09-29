@@ -27,7 +27,7 @@
    * [Coding For Kids](resources/coding_for_kids.md)
 * [Projects](projects/README.md)
    * [GDG[x]](projects/gdgx.md)
-   * [DevFest Site Templates](projects/devest_site_templates.md)
+   * [DevFest Site Templates](projects/devfest_site_templates.md)
    * [Chapter Site Templates](projects/chapter_site_templates.md)
    * [Mobile Apps](projects/mobile_apps.md)
 * [Stories](stories/README.md)
