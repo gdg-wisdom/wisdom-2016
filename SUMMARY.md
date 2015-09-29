@@ -30,6 +30,8 @@
    * [DevFest Site Templates](projects/devfest_site_templates.md)
    * [Chapter Site Templates](projects/chapter_site_templates.md)
    * [Mobile Apps](projects/mobile_apps.md)
+   * [Tools Event Creation](projects/create_events.md)
+   * [Analysis Tools](projects/analysis_tools.md)
 * [Stories](stories/README.md)
 * [Other](other/README.md)
 * [Contributors](contributors/README.md)
