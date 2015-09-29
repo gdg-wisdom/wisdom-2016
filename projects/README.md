@@ -1,16 +1,11 @@
 # Projects & Apps
 
-Most projects are governed by [GDG[x]](http://github.com/gdg-x)
+This section covers tools for GDG organizers to help organizing events.
 
-##What is GDG[x]?
+Most projects are governed by [GDG[x]](http://github.com/gdg-x), a group of developers, designers and enthusiasts contributing to open source projects related to GDGs.
 
-##The Hub
 
-##The public GDGroups.org site
 
-##Site templates for your own chapter
-
-##Site templates for bigger events
 
 
 
