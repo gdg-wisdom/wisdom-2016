@@ -29,7 +29,7 @@
    * [GDG[x]](projects/gdgx.md)
    * [DevFest Site Templates](resources/hoverboard.md)
    * [Chapter Site Templates](resources/boomerang.md)
-   * [GDG Android App](https://github.com/gdg-x/frisbee)
+   * [GDG Android App](resources/frisbee.md)
 * [Stories](stories/README.md)
 * [Other](other/README.md)
 * [Contributors](contributors/README.md)
