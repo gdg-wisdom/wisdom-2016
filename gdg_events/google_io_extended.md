@@ -10,6 +10,8 @@ As interesting as it sounds, many developers around the world feel left out as t
 
 To overcome this, Google has created an initiative which helps extending this conference through various communities like the Google Developer Groups, Google Business Groups etc, titled as `Google I/O Extended` to different locations through interested organizers for the benefit of developers, students, start-up junkies around the world.
 
+[Register your Google I/O Extended 2015 event](https://events.google.com/io2015/form)
+
 Join the organizers [G+ community for organizers](https://plus.google.com/communities/117237720017114370989) to connect to other organizers.
 
 
