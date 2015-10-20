@@ -5,8 +5,7 @@ This section covers collective wisdom related to the topic of starting a new cha
 1. Visit the [GDG Directory](https://developers.google.com/groups/directory/#) and see if there's already a local meetup in your area.
 2. If there is, talk to the organizers there to learn more about how you can contribute.
 3. If there isn't an existing chapter, then consider starting one by [reading the guidelines here](https://developers.google.com/groups/start/).
-4. Ready to start a chapter? [Fill out the application form](https://support.google.com/developergroups/contact/devgroup_new_chapter_app) and wait to hear back on the approval of your request. If you have nothing 
-heard for a couple of weeks please send a request to ??
+4. Ready to start a chapter? [Fill out the application form](https://support.google.com/developergroups/contact/devgroup_new_chapter_app) and wait to hear back on the approval of your request. (If you have nothing heard for 2 weeks please open an issue here at gdg-wisdom, your request will then be forwarded to the global Google community manager.)
 5. Approved? Congratulations!! Check [the GDG Directory](https://developers.google.com/groups/directory/#) to verify the chapter listing. It will probably be marked with a ![](https://developers.google.com/_static/b929354e2e/images/gdg-directory-incubating-marker.png) to indicate its *incubating* status.
 
 ### What are the Pre-Requisites?
