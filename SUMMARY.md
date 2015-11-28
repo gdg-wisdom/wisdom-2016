@@ -33,7 +33,7 @@
    * [Mobile Apps](projects/mobile_apps.md)
    * [Tools Event Creation](projects/create_events.md)
    * [Analysis Tools](projects/analysis_tools.md)
-   * [More Projects using GDG[X] API](projects/gdg_x_api.md)
+   * [More Projects using GDG[x] API](projects/gdg_x_api.md)
 * [Stories](stories/README.md)
 * [Other](other/README.md)
 * [Contributors](contributors/README.md)
