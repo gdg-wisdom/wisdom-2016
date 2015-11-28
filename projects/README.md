@@ -8,7 +8,7 @@ It introduces [GDG[x]](http://github.com/gdg-x), a group of developers, designer
 * Mobile apps for your chapter
 * Tools to help with event creations on various platforms
 * Analytics tools
-* More projects using the GDG[X] API
+* More projects using the GDG[x] API
 
 
 
