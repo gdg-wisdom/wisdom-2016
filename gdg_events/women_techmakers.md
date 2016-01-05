@@ -20,3 +20,6 @@ WTM provides opportunities to develop industry needed skillsets, aid career deve
 
 ***
 Learn more about WTM at [g.co/WomenTechmakers](https://www.womentechmakers.com/).
+
+## Resources
+There is a  [folder in the GDG Resource drive](https://drive.google.com/drive/folders/0B55wxScz_BJtfjdxRHlFTDdPMzR3M3RjcXUwTDl3WV9sT2pXRjA3TzNtVlFEMk9TWEZ4bFk).
