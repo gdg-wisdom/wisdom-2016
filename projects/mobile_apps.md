@@ -12,6 +12,6 @@ Random screenshot of a random build from a random time:
 ![Frisbee](https://lh6.ggpht.com/FK3ERkRvjP6pz-EyLdKWLRML4wLMIAwoMs6dV9bn9EFYJ3Ainrnt_66G9RHBCuxOWw=h900-rw)
 
 ## Spaceship - Material Ionic Hybrid GDG App (not yet published)
-This app can be used by all members of all chapters that don't use an Android phone.
+This app can be used by all members of all chapters that don't use an Android phone, but iphones, winphones and others.
 
-The source code and how to contribute can be found on[github.com/gdg-x/spaceship](https://github.com/gdg-x/spaceship)
+The source code and how to contribute can be found on [github.com/gdg-x/spaceship](https://github.com/gdg-x/spaceship)
