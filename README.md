@@ -1,6 +1,6 @@
 ![](https://sites.google.com/site/gdgwisdom/_/rsrc/1368201798017/home/GDG-Wisdom-Logo.jpg)
 
-This is a Google Developer Groups (GDG) created *living document* that is community-owned, multi-lingual, and publicly accessible. The latest version of this book can be found [online at GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2015/).
+This is a Google Developer Groups (GDG) created *living document* that is community-owned, multi-lingual, and publicly accessible. The latest version of this book can be found [online at GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2016/).
 
 The goal is to **collect and curate knowledge that can help GDG organizers run and manage their community, events, activities and partnerships.**
 
