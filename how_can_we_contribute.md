@@ -34,11 +34,13 @@ Simply hop into our Gitter chatroom and talk to us, or you can connect to us on 
 Every year a new edition is started to keep the wisdom alive.
 
 The following steps needs to be done to create a new edition for year YYYY:
-* A label "final-YYYY" to the last commit of the previous year
-* Create a new github repository gdg-wisdom/wisdom-YYYY
-* Push your local master branch to this new remote repository
-* Create a new gitbook gdg-wisdom/gdg-wisdom-YYYY and copy the decription
-* Add the github repository as resource
-* Add the gitbook webhook to the github repository
-* Search and replace in the github repository all occurences of wisdom-YYYY for the previous year
-* Create a new gitter chat room for the new github repository
+
+1.  A label "final-YYYY" to the last commit of the previous year
+1.  Create a new github repository gdg-wisdom/wisdom-YYYY
+1. Push your local master branch to this new remote repository
+1. Create a new gitbook gdg-wisdom/gdg-wisdom-YYYY and copy the decription
+1. Add the github repository as resource
+1. Add the gitbook webhook to the github repository
+1. Search and replace in the github repository all occurences of wisdom-YYYY for the previous year
+1. Create a new gitter chat room for the new github repository
+1. Update the subdomain [wisdom.gdgroups.org](http://wisdom.gdgroups.org) to point to the new gitbook content
