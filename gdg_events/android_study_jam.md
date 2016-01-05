@@ -39,3 +39,6 @@ All participants of the Study Jams who complete the Udacity course and final pro
 
 #####WHY ARE YOU GUYS DOING THIS?
 We believe that supplementing the online course experience with a live community learning environment will support students in completing the course and achieving certification. The goal is to provide deeper understanding in the course material within a fun and collaborative community environment.
+
+## Resources
+There is a [folder in the GDG resource drive](https://drive.google.com/drive/folders/0B55wxScz_BJtd1ZLeVBWM241eVE).
