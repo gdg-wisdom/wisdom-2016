@@ -16,7 +16,7 @@ Ideally, we want contributors to be on GitHub, and provide their contributions v
 | Ralph Yozzo / fedex1 | chapters |
 
  
-You can see them all - including bots - on [Github](https://github.com/gdg-wisdom/wisdom-2015/graphs/contributors)
+You can see them all - including bots - on [Github](https://github.com/gdg-wisdom/wisdom-2016/graphs/contributors)
 
 ## History
 The main contributors to the previous GDG Wisdom site were 
