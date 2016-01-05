@@ -19,3 +19,6 @@ In order to ensure these events are bigger than regular GDG meetups though, ther
 
 [Find a GDG DevFest near you](http://devfest.gdgroups.org/) or install the [GDG App](https://play.google.com/store/apps/details?id=org.gdg.frisbee.android) from the Google Play Store and join the fun !
 
+## Resources
+There is a folder in the [GDG Resource drive](https://drive.google.com/drive/folders/0B06g43ltjGbwdEZ2RFpNWmdiOHM).
+
