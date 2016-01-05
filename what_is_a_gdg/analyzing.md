@@ -16,13 +16,12 @@ This report can be re-generated every day if it is useful.  Let me know.
 An example is: I find my group (e.g., New York)  then I click on the link.
 
 
-![example1] (https://lh3.googleusercontent.com/-3r6qcvB9clw/VW0qe-P-NlI/AAAAAAABksw/gWylBPM6oKw/s1600/Screen%2BShot%2B2015-06-01%2Bat%2B11.59.54%2BPM.png)
-
+![example1](https://lh3.googleusercontent.com/-3r6qcvB9clw/VW0qe-P-NlI/AAAAAAABksw/gWylBPM6oKw/s1600/Screen%2BShot%2B2015-06-01%2Bat%2B11.59.54%2BPM.png)
 
 
 After clicking I am taken to the google dev site metrics page for that event:
 
-![example2] (https://lh3.googleusercontent.com/-x2MVVmTKv5k/VW0rIEDjBxI/AAAAAAABks4/MsQUbtFrgLo/s1600/Screen%2BShot%2B2015-06-02%2Bat%2B12.02.23%2BAM.png)
+![example2](https://lh3.googleusercontent.com/-x2MVVmTKv5k/VW0rIEDjBxI/AAAAAAABks4/MsQUbtFrgLo/s1600/Screen%2BShot%2B2015-06-02%2Bat%2B12.02.23%2BAM.png)
 
 I enter the values and click "update"
 
