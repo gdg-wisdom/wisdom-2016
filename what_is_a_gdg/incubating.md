@@ -38,4 +38,4 @@ We also have to make sure that GDG organizer's groups is open for ANY company in
 On the other side - you can always say in full integrity that the business of the GDG manager WILL be helped by the GDG manager having a stronger personal brand, better networking, better access to Google and better understanding of Google technologies; notwithstanding improved management and communication skills.
 
 ### What if I still have questions on this topic?
-If you have a question that is not answered in this section, please consider *[submitting an Issue here](https://github.com/gdg-wisdom/wisdom-2015/issues/new)* and tagging it with the provided label [*'chapters'*](https://github.com/gdg-wisdom/wisdom-2015/labels) to bring it to our attention.
+If you have a question that is not answered in this section, please consider *[submitting an Issue here](https://github.com/gdg-wisdom/wisdom-2016/issues/new)* and tagging it with the provided label [*'chapters'*](https://github.com/gdg-wisdom/wisdom-2016/labels) to bring it to our attention.

@@ -28,4 +28,4 @@ GDG Wisdom is overseen by members of the [GDG Task Force](https://plus.google.co
 
 
 
-[![Join the chat at https://gitter.im/gdg-wisdom/wisdom-2015](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-wisdom/wisdom-2015?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/gdg-wisdom/wisdom-2016](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-wisdom/wisdom-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

@@ -14,10 +14,10 @@ The original [How to contribute](https://sites.google.com/site/gdgwisdom/home) s
 
 **Want to edit content along these lines?** All you need is a GitHub account.
 
-* Visit the [GDG Wisdom GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2015/content/) and click "Edit This Page" on the corresponding page that you want to modify.
+* Visit the [GDG Wisdom GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2016/content/) and click "Edit This Page" on the corresponding page that you want to modify.
 * You will be asked to log into your GitHub account to make edits.
 * Commit the edits. (This will trigger a pull request to our repository)
-* You're done. You will automatically be listed in our [GDG Wisdom contributors](https://github.com/gdg-wisdom/wisdom-2015/graphs/contributors) Dashboard.
+* You're done. You will automatically be listed in our [GDG Wisdom contributors](https://github.com/gdg-wisdom/wisdom-2016/graphs/contributors) Dashboard.
 
 You can find a viualisation of the process [here](https://www.lucidchart.com/documents/view/beb82d5c-7651-4f20-8e4b-27af0adbf488).
 
@@ -28,3 +28,17 @@ You can find a viualisation of the process [here](https://www.lucidchart.com/doc
 Simply hop into our Gitter chatroom and talk to us, or you can connect to us on GitHub (post an Issue) or G+ (post a message). Join the [GDG Wisdom GitHub](https://github.com/gdg-wisdom) Organization and then hop into the Gitter chat room below.
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-wisdom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+## Yearly Editions
+
+Every year a new edition is started to keep the wisdom alive.
+
+The following steps needs to be done to create a new edition for year YYYY:
+* A label "final-YYYY" to the last commit of the previous year
+* Create a new github repository gdg-wisdom/wisdom-YYYY
+* Push your local master branch to this new remote repository
+* Create a new gitbook gdg-wisdom/gdg-wisdom-YYYY and copy the decription
+* Add the github repository as resource
+* Add the gitbook webhook to the github repository
+* Search and replace in the github repository all occurences of wisdom-YYYY for the previous year
+* Create a new gitter chat room for the new github repository
