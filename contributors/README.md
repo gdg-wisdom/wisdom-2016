@@ -8,8 +8,14 @@ Ideally, we want contributors to be on GitHub, and provide their contributions v
 | --- | --- |
 | Nitya Narasimhan / nitya | global maintainer |
 | Friedger Müffke / friedger | global maintainer |
+| Jigyasa Grover /jig08 | special events |
 | Yannick Lemin / theyann | link to tools |
+| Rohan Arora / rohanraarora | chapters |
+| Michael Prentice / Splaktar | projects |
+| Kenneth Kinyanjui / kenju254 | mentors |
+| Ralph Yozzo / fedex1 | chapters |
 
+ 
 You can see them all - including bots - on [Github](https://github.com/gdg-wisdom/wisdom-2015/graphs/contributors)
 
 ## History
