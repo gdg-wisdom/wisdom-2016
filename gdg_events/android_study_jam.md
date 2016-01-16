@@ -19,7 +19,7 @@ Google Developers Study Jams is a series of in-person, community-run study group
 #####WHAT HAPPENS AT A STUDY JAM?
 A Study Jam is an opportunity for students to receive free, in-person guidance and tutoring on the Udacity course in a fun classroom environment. Study Jam sessions are designed around the Udacity course structure, with a face-to-face meetup following the lessons, as well as for completing and sharing course final projects. Students are expected to come to the Study Jam sessions having completed that week’s Udacity lesson online, so that the Study Jam time may be used to review key concepts, address questions, and work on individual projects. The live community atmosphere and tutoring is designed to help students achieve deeper learning around the concepts taught in the course.
 
-Details about the student requirements, facilitator requiremenst, certification requirements, study jam formats, perks, and other links to resources can be found in the [GDG Organizer Guide: Google Developers Study Jams - Android for Beginners](https://docs.google.com/document/d/1M6u3pR1eReLT8f5QFu3RlvxFfDp3UCqoz9fED3AMCkY/edit?usp=sharing).
+Details about the student requirements, facilitator requirements, certification requirements, study jam formats, perks, and other links to resources can be found in the [GDG Organizer Guide: Google Developers Study Jams - Android for Beginners](https://docs.google.com/document/d/1M6u3pR1eReLT8f5QFu3RlvxFfDp3UCqoz9fED3AMCkY/edit?usp=sharing).
 
 
 
