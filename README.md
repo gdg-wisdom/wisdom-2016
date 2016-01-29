@@ -1,4 +1,4 @@
-![](https://sites.google.com/site/gdgwisdom/_/rsrc/1368201798017/home/GDG-Wisdom-Logo.jpg)
+![GDG Wisdom Logo](https://github.com/gdg-wisdom/wisdom-2016/raw/master/gdg-wisdom-logo.png)
 
 This is a Google Developer Groups (GDG) created *living document* that is community-owned, multi-lingual, and publicly accessible. The latest version of this book can be found [online at GitBook](http://gdg-wisdom.gitbooks.io/gdg-wisdom-2016/).
 
