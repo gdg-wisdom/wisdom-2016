@@ -16,7 +16,7 @@ This section covers collective wisdom related to the topic of starting a new cha
 Leaders (chapter leaders, project organizers, country coordinators, etc.) are by far the key people in communities,  who influence everything - other  organizers, culture, activities. Leaders and organizers are capable  technical, people-wise and organization wise. An organizer is responsible for:
 
 * Networking with people
-* Marketing of activties
+* Marketing of activities
 * Event production
 * Inspiring people to do stuff
 * Leading people to make a decision
