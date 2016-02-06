@@ -16,7 +16,7 @@ From 2014 to present, Women Techmakers is continually launching global scalable 
 
 It showcases the work and passions of women in the technology industry by providing a platform to celebrate their talents and spotlight role models.
 
-WTM provides opportunities to develop industry needed skillsets, aid career development, and support women to become industry leaders in all phases of their careers apart from creating a supportive global community in which women can connect, be inspired, and encourage each other to realize their passions
+WTM provides opportunities to develop industry needed skillsets, aid career development, and support women to become industry leaders in all phases of their careers apart from creating a supportive global community in which women can connect, be inspired and encourage each other to realize their passions.
 
 ***
 Learn more about WTM at [g.co/WomenTechmakers](https://www.womentechmakers.com/).
