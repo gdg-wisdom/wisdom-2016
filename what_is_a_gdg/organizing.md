@@ -17,15 +17,15 @@ Make a plan for the next two or three events and work the co-organizers through 
 * Give access to other social media
 
 ###Process of organizing an event
-The process of doing an event and get it online online
+The process of doing an event and getting it online is:
 
-1. find speakers, create Google moderator where people can suggest a talk/topic
+1. Find speakers, create Google moderator where people can suggest a talk/topic
 
-1. find venue
+1. Find venue
 
-1. create event at https://developers.google.com/events/createevent
+1. Create event at https://developers.google.com/events/createevent
 
-1. create G+ event, create image for it
+1. Create G+ event, create image for it
 
 1. Create another event (for ticketing) ­ (optional)
     1. meetup event
@@ -38,7 +38,7 @@ The process of doing an event and get it online online
 
     1. Google Form (with automatic response mail via script)
 
-1. Marketing the event
+1. Market the event
 
     1. twitter, g+ post, g+ page post, g+ community, facebook post, email list
 
@@ -55,7 +55,7 @@ The process of doing an event and get it online online
 
     1. G+ event (if small)
 
-1. After the event publish content,feedback, reviews, ..
+1. After the event publish content, feedback, reviews, ..
 
 ###Tools
 Open Source tools at [Github by GDG[x]](http://github.com/gdg­-x)
@@ -65,6 +65,6 @@ Open Source tools at [Github by GDG[x]](http://github.com/gdg­-x)
 * Event website for Devfest (Zeppelin)
 
 ###Chapter as an Entity
-Some sponsors might ask for an entity to sponsor your work. Depending on your country there are different requirements and possibilities. Discuss with your chapters nearby or other user groups in your country.
+Some sponsors might ask for an entity to sponsor your work. Depending on your country there are different requirements and possibilities. Discuss this with the chapters nearby or other user groups in your country.
 
 Usually the easiest way to get sponsors involved is by asking them for goods and services (instead of money) like food, t-shirts, room, wifi.
