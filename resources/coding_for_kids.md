@@ -5,7 +5,7 @@ This section is for capturing resources, curriculum and ideas for teaching progr
 These are some of the tools you can use to run a programming or coding lab.
 
 * [Scratch from MIT](https://scratch.mit.edu/)
-* [Lego WeDo](https://education.lego.com/en-us/preschool-and-school/lower-primary/7plus-education-wedo)
+* [Lego WeDo](https://education.lego.com/en-us)
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com)
 * [Tynker](https://www.tynker.com/)
 * [Makey Makey](http://www.makeymakey.com/)
