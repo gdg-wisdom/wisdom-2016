@@ -7,7 +7,7 @@ better supported and active GDG's; by helping their communication and collaborat
 
 The duration is of a mentor is 10-12 months.
 
-It first piloted in Google Business Groups , then in African GDG's. The program is not available worldwide in an updated format for countires which want to do it.
+It first piloted in Google Business Groups, then in African GDG's. The program is not available worldwide in an updated format for countires which want to do it.
 
 ## What does it take to be a mentor?
 
