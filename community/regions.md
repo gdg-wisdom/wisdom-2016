@@ -16,32 +16,138 @@ At present, the following regions have been identified based primarily on the li
  * SSA = Sub-Saharan Africa
  * WEU = Western Europe
 
-Each region is described below in more detail. The current identification of countries in a region is again based on the [GDG Reports App](http://gdg-report.appspot.com/) classification (_select the Meeting stats link, and the region, to see chapter listings_). Current data is based on the *2015Q4* stats.
+Each region is described below in more detail. The current identification of countries in a region is again based on the [GDG Reports App](http://gdg-report.appspot.com/) classification with emphasis on the [http://gdg-report.appspot.com/stats] (*2015Q4* stats).
 
 ## Central & Eastern Europe (CEU)
 
+Countries listed here include
+ * Armenia
+ * Austria
+ * Bulgaria
+ * Czech Republic
+ * Georgia
+ * Greece
+ * Hungary
+ * Moldova
+ * Romania
+ * Russia
+ * Slovakia
+
 ## Central & Eastern Europe, North (CEN)
+
+Countries listed here include
+ * Belarus
+ * Latvia
+ * Lithuania
+ * Poland
+ * Ukraine
 
 ## Central Asia (CAS)
 
+Countries listed here include
+ * Kyrgyzstan
+
 ## Middle East, North Africa & Turkey (MEA)
+
+Countries listed here include
+ * Algeria
+ * Egypt
+ * Jordan	
+ * Kuwait	
+ * Mauritania	
+ * Palestine	
+ * Tunisia	
+ * Turkey	
+ * United Arab Emirates
 
 ## Nordics (NDC)
 
+Countries listed here include
+ * Denmark
+ * Finland
+ * Norway
+
 ## North America (NAM)
+
+Countries listed here include
+ * Canada
+ * United States
 
 ## North-East Asia (NEA)
 
+Countries listed here include
+ * Japan
+ * South Korea
+
 ## South-East Asia (SEA)
+
+Countries listed here include
+ * Bangladesh	
+ * Brunei Darussalam	
+ * Cambodia
+ * Indonesia	
+ * Laos	
+ * Malaysia	
+ * Myanmar	
+ * Nepal	
+ * Pakistan	
+ * Philippines	
+ * Singapore	
+ * Sri Lanka	
+ * Thailand	
+ * Vietnam
 
 ## Spanish-Speaking Latin America (LAM)
 
+Countries listed here include
+ * Argentina	
+ * Bolivia	
+ * Chile	
+ * Colombia	
+ * Costa Rica	
+ * Dominican Republic	
+ * Guatemala	
+ * Mexico	
+ * Panama	
+ * Peru	
+ * Uruguay
+
 ## Sub-Saharan Africa (SSA)
 
+Countries listed here include
+ * Benin	
+ * Burkina Faso	
+ * Cameroon	
+ * Congo	
+ * Congo
+ * Cote d'Ivoire	
+ * Ghana	
+ * Kenya	
+ * Mozambique	
+ * Namibia
+ * Nigeria	
+ * Senegal	
+ * South Africa	
+ * Tanzania	
+ * Togo	
+ * Uganda
+
 ## Western Europe (WEU)
-* Europe
+
+Countries listed here include
+ * Belgium	
+ * France	
+ * Germany	
+ * Ireland	
+ * Italy	
+ * Netherlands	
+ * Portugal	
+ * Spain	
+ * Switzerland	
+ * United Kingdom
+ 
+(from previous content)
   * D/A/CH regions including Belgium and Malta
-  
     Communication takes place at [GDG D/A/CH G+ community](https://plus.google.com/115606122706524327961) and the [DACH announcement mailing list](https://groups.google.com/forum/#!forum/gdg-dach-announce).
   * England
   * France
