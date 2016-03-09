@@ -16,7 +16,7 @@ At present, the following regions have been identified based primarily on the li
  * SSA = Sub-Saharan Africa
  * WEU = Western Europe
 
-Each region is described below in more detail. The current identification of countries in a region is again based on the [GDG Reports App](http://gdg-report.appspot.com/) classification with emphasis on the [http://gdg-report.appspot.com/stats] (*2015Q4* stats).
+Each region is described below in more detail. The current identification of countries in a region is again based on the [GDG Reports App](http://gdg-report.appspot.com/) classification with emphasis on the [_2015Q4 stats_](http://gdg-report.appspot.com/stats).
 
 ## Central & Eastern Europe (CEU)
 
