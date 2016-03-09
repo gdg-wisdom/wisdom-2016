@@ -1,6 +1,6 @@
-# Google I/O Extended 201
+# Google I/O Extended 2016
 
-![](http://www.androidauthority.com/wp-content/uploads/2016/02/Google-IO-2016.jpg)
+![](https://github.com/gdg-wisdom/wisdom-2016/blob/master/Google-IO-2016.jpg)
 
 Every year, Google hosts developers around the world in a software developer-focused conference held in San Francisco, California to showcase innovations in areas like Android mobile development, modern front-end tools, infrastructure & DevOps, wearables, phones etc. 
 Google I/O features highly technical, in-depth sessions focused on building web, mobile and enterprise applications with Google and open web technologies such as Android, Chrome, Chrome OS, Google APIs, Google Web Toolkit, App Engine, and more.
