@@ -31,6 +31,7 @@
    * [Chapter Site Templates](projects/chapter_site_templates.md)
    * [Mobile Apps](projects/mobile_apps.md)
    * [Tools Event Creation](projects/create_events.md)
+   * [Logo Generators](projects/logo_generators.md)
    * [Analysis Tools](projects/analysis_tools.md)
    * [More Projects using GDG[x] API](projects/gdg_x_api.md)
 * [Stories](stories/README.md)
