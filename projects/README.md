@@ -7,6 +7,7 @@ It introduces [GDG[x]](http://github.com/gdg-x), a group of developers, designer
 * Chapter site templates
 * Mobile apps for your chapter
 * Tools to help with event creations on various platforms
+* Logo Generators
 * Analytics tools
 * More projects using the GDG[x] API
 
