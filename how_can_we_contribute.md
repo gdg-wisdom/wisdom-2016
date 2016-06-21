@@ -3,9 +3,17 @@
 ## Types of Contributions
 
 There are many ways to contribute but three key ones are:
-* **Suggest Content.** Have you had questions that you wished you had answers to? Are there resources or references that you wish were made available to you in a central location? _Submit them!_
-* **Author Content.** See a question that you can answer or are an expert on? _Answer it!_ See an answer that you can improve, build upon, or provide an alternative perspective to? _Edit it!_ See ways to organize content better, improve the writing style for clarity or simply make the reading experience easier? _Improve it!_
-* **Review Content.** Have feedback on the accuracy, clarity or relevance of existing content? _Flag it_ and tell us what you think.
+
+#### Suggest Content
+- Have you had questions that you wished you had answers to? Are there resources or references that you wish were made available to you in a central location? **Submit them!**
+
+#### Author Content
+- See a question that you can answer or are an expert on? **Answer it!** 
+- See an answer that you can improve, build upon, or provide an alternative perspective to? **Edit it!** 
+- See ways to organize content better, improve the writing style for clarity or simply make the reading experience easier? **Improve it!**
+ 
+#### Review Content
+- Have feedback on the accuracy, clarity or relevance of existing content? **Flag it** and tell us what you think.
 
 
 ## The Contribution Process
