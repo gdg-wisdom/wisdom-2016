@@ -24,3 +24,6 @@ In order to ensure these events are bigger than regular GDG meetups though, ther
 * [Guide to creating a successful hackathon](https://docs.google.com/document/d/18L8_Jg0BArikykWz3QC2Z12n9VsyGZFxY3UmWteit70/view)
 * [Other DevFest 2016 Resources](https://drive.google.com/drive/folders/0B7eNn0CRewQ8TXZNd3JZY1ZHcWc)
 * [Progressive Web Apps 2016 Organizer guide](https://drive.google.com/file/d/0B55wxScz_BJtQWJQWHZVSTRsa2c/view)
+
+* [Running events on a scale or DevFest season is coming](https://www.youtube.com/watch?v=9VOUQXPQ92o) [slides](https://speakerdeck.com/zasadnyy/the-definitive-guide-to-large-scale-events-or-devfest-season-is-coming-dot-dot-dot)
+* 
