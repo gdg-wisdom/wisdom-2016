@@ -17,3 +17,5 @@ Currently, there are three main projects
 
 If you want to contribute join a conversation on gitter.im of the project you are most interested in.
 
+For reference: There is a document to describe a [GDG Speaker Opportunity Platform](https://docs.google.com/document/d/1_CB_PoYTp4FN5wVK3HZHE03yV5rrY7bM2bcxeeF6FP8/edit)
+
