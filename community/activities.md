@@ -22,5 +22,5 @@
 * Judy Jams
 * Social Drinks
 * Community project
-
+* Ice breakers (Human knot, Bingo)
 
