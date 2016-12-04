@@ -147,7 +147,7 @@ Countries listed here include
  * United Kingdom
  
 (from previous content)
-  * D/A/CH regions including Belgium and Malta
+  * D/A/CH regions including Belgium
     Communication takes place at [GDG D/A/CH G+ community](https://plus.google.com/115606122706524327961) and the [DACH announcement mailing list](https://groups.google.com/forum/#!forum/gdg-dach-announce).
   * England
   * France
