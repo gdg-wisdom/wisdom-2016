@@ -3,15 +3,17 @@
 ## Content
 * Talks
 * Open Mic
-* Video Talk
+* Video Talks
 * Lightning Talks
 * Coding Night
 * Lunch Talk
 * DevFest
 * Barcamp
+* I/O Extended
 
 ## Tech/Coding
 * Codelab
+* Study Jams
 * Codekata
 * Hackathon
 * Startup Weekend
@@ -19,8 +21,7 @@
 
 ## Social Events
 * BBQ/Bowling
-* Judy Jams
 * Social Drinks
 * Community project
-* Ice breakers (Human knot, Bingo)
+* Ice breakers (Human knot, Bingo, Rock–paper–scissors)
 
