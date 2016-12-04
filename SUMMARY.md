@@ -23,6 +23,7 @@
    * [Partners](community/partners.md)
    * [Resources](community/resources.md)
    * [Regions](community/regions.md)
+   * [Change Management](community/change_management.md)
 * [Resources](resources/README.md)
    * [Coding For Kids](resources/coding_for_kids.md)
 * [Projects](projects/README.md)
