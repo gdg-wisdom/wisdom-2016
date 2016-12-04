@@ -12,3 +12,6 @@ _Note: This is a public document. Please ensure that any content that you contri
 
 
 [![Join the chat at https://gitter.im/gdg-wisdom/wisdom-2016](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-wisdom/wisdom-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+[![Join the chat at https://gitter.im/gdg-wisdom/wisdom-2016](https://badges.gitter.im/gdg-wisdom/wisdom-2016.svg)](https://gitter.im/gdg-wisdom/wisdom-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
