@@ -15,3 +15,7 @@ Random screenshot of a random build from a random time:
 This app can be used by all members of all chapters that don't use an Android phone, but iphones, winphones and others.
 
 The source code and how to contribute can be found on [github.com/gdg-x/spaceship](https://github.com/gdg-x/spaceship)
+
+## Hoverboard Android app
+
+GDG DevFest Hamburg created this portable [Android app for Hoverboard](https://github.com/GDGhamburg/devfest-app).
