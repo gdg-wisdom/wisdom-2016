@@ -4,4 +4,4 @@ GDG Organizers lead the local chapters. There is one or more people organizing a
 
 GDG Organizers/Leads have a regional contact at Google to get advice for running the local chapter.
 
-GDG Organizers/Leads meet regularily with the local chapters in a so-called GDG regional lead summit.
+GDG Organizers/Leads meet regularly with the local chapters in a so-called GDG regional lead summit.
