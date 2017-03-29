@@ -5,7 +5,7 @@
 
 - Google Developers Study Jams is a free series of global, community-run, in-person study groups. 
 - The first Study Jams series started in 2015. The 2016 series officially starts between February 1, 2016 and May 1, 2016, and is presented in partnership with Udacity. 
-- Google Developer Group facilitators -- consisting of members within the GDG community itself and, and have gone through the curriculum prior to the start of the series -- lead the Study Jams that meet at least once or on a weekly basis, between 1 February 2016 to 1 May 2016.
+- Google Developer Group facilitators -- consisting of members within the GDG community itself and have gone through the curriculum prior to the start of the series -- lead the Study Jams that meet at least once a week or rather on a weekly basis, between 1 February 2016 to 1 May 2016.
 - Study Jams follow the free version of the course on Udacity, and will follow their Android Development for Beginners curriculum.
 - Promoted using hashtag `#devstudyjam`
 
